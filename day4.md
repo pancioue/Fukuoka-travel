@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Day 4
-nav_order: 1
+nav_order: 2
 ---
 
 # Day 4
@@ -26,7 +26,7 @@ nav_order: 1
 
 _馬車路線圖_
 ![由布院馬車路線](由布院馬車路線.jpg)
-參考網站: https://gogojp.tw/yufuin-carriage/
+[參考網站](https://gogojp.tw/yufuin-carriage/)
 
 
 

@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Day 5
-nav_order: 2
+nav_order: 3
 ---
 
 Day 5
@@ -9,7 +9,7 @@ Day 5
 > `10:30` 前退房
 
 ![由布院景點](由布院景點.jpg)
-參考網站: https://vivianjourney.tw/yufuin/
+[參考網站](https://vivianjourney.tw/yufuin/)
 
 
 ## 湯之坪街道
