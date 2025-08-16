@@ -1,3 +1,9 @@
+---
+layout: default
+title: Day 4
+nav_order: 1
+---
+
 Day 1
 ========
 > 下午 __6:05__ 分到福岡機場
