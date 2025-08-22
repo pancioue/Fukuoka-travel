@@ -11,7 +11,7 @@ Day 3 （10/5 週日）
 1. 櫛田神社
 2. The Full Full Hakata
 3. 博多運河城
-4. 中洲屋台街 或 博多華味鳥(博多站前店)
+4. 中洲屋台街
 
 ## 櫛田神社
 搭 `七隈線` 到 櫛田神社前
@@ -38,10 +38,8 @@ Day 3 （10/5 週日）
 * [instagram](https://www.instagram.com/reel/DKwrzekTDGV/?igsh=MnNuN3o0cnkxZ2g%3D)
 * [google地圖](https://maps.app.goo.gl/JF1yMaGywTmqXA7V8)
 
-
-## 水炊料亭 博多華味鳥 博多站前店 
-* 營業時間: 星期日、11:30–15:00、17:00–22:00
-* 從飯店步行約 14 分鐘
+## 博多 祇園 鐵鍋煎餃
+17:00–22:30
 
 
 ## gâteau Mannekenpis
