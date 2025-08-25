@@ -6,28 +6,15 @@ nav_order: 3
 
 Day 3 （10/5 週日）
 ========
-> 基本上都在飯店不遠處，當天步行即可
 
-1. 櫛田神社
-2. The Full Full Hakata
-3. 博多運河城
-4. 中洲屋台街
-
-## 櫛田神社
-搭 `七隈線` 到 櫛田神社前
-* 營業時間: `09:00–17:00`
+1. 爐端
+2. 福岡動植物園
+3. 福岡塔
 
 
-## The Full Full Hakata 明太子法國麵包
-早上中午先吃這個，然後去運河
-* 中央旅館以西步行約８分鐘
-* 營業時間: `10:00–19:00`，週二休息
-* [instagram](https://www.instagram.com/reel/DKo3uwJRf30/?igsh=MWowbzR2c252MmZxeQ%3D%3D)
-* [google地圖](https://maps.app.goo.gl/7pNWPTVdfkWvT25L8)
-
-
-## 博多運河城
-* 營業時間: `10:00–21:00`
+## 福岡塔
+* 營業時間: `09:30–22:00`
+* 交通: 巴士
 
 
 ## Kawaya Gion
